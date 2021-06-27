@@ -74,6 +74,5 @@ typings/
 
 # FuseBox cache
 .fusebox/
-index-linux
-index-macos
-index-win.exe
+
+build/
