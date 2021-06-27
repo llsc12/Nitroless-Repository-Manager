@@ -15,7 +15,7 @@ prompt.get(['dir', 'RepoName'], (err, result) => {
     emotes.push(
       {
         "name":`${info[0]}`,
-        "type":`${info[1]}`
+        "type":`.${info[1]}`
       }
     )
   })
