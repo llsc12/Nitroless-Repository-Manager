@@ -11,9 +11,10 @@
     "outputPath": "build"
   },
   "scripts": {
-    "build":"pkg ."
+    "build": "pkg ."
   },
   "dependencies": {
+    "canvas": "^2.8.0",
     "fs": "^0.0.1-security",
     "prompt": "^1.1.0"
   }
